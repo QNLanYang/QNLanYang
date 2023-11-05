@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning JAVA for classwork.
+- ⚡ Fun fact: I'm a UP on BiliBili
+
+
 <!--
 **QNLanYang/QNLanYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
