@@ -2,6 +2,10 @@
 
 - 🌱 I’m currently learning JAVA for classwork.
 - ⚡ Fun fact: I'm a UP on BiliBili
+- 🌟 I am also interested in these areas:
+  - 🖥️ Programming Development
+  - 🎥 Film and Video Post
+  - 🎮 Gaming and Entertainment
 
 
 <!--
