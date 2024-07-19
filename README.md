@@ -6,7 +6,7 @@
 > *This is my avatar.*
 
 
-- 🌱 I’m currently learning JAVA for classwork.
+- 🌱 I’m currently preparing for a job search.
 - ⚡ Fun fact: I'm a UP on BiliBili
 - 🌟 I am also interested in these areas:
   - 🖥️ Programming Development
